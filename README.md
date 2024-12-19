@@ -1,4 +1,4 @@
 # Libft
 
 Libft : Your very first own library
-This project involves the development of a C library. I have implemented numerous functions from scratch, exploring various concepts. Through this process, I gained insights into memory behavior and efficient data storage techniques.
+This project focuses on building a custom C library by implementing numerous functions from scratch. It provided an opportunity to explore core programming concepts, including algorithms, memory handling, and data structures. Through this hands-on experience, I gained valuable insights into memory behavior, efficient data storage techniques, and the inner workings of C programming.
